@@ -11,7 +11,7 @@ bool isPalindrome(int x) {
         }
         if(result == temp) return true;
         return false;
-    }
+    } 
 int main(){
     cout << isPalindrome(123);
 
